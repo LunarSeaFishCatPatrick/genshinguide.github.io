@@ -1,1 +1,1 @@
-# genshinguide.githun.io
+# genshinguide.github.io
